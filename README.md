@@ -3,7 +3,11 @@
 A web-based Portal Management System developed by Nuruzzaman. This platform is designed to manage various academic and administrative activities, including user authentication, course management, attendance tracking, result management, and more. It supports multiple roles: Admin, Teacher, Student.
 
 ---
+## Acknowledgements
 
+-  HTML5, CSS, Tailwind CSS,PHP, MySQL.
+- Open-source community
+- All contributors and testers
 ## Features
 
 - **User Authentication**
@@ -150,7 +154,7 @@ This project is for educational purposes. For commercial or production use, plea
 ## Author
 
 **Nuruzzaman**  
-[GitHub Profile](https://github.com/Nuruzzaman-Nuru)
+[[GitHub Profile](https://github.com/Nuruzzaman-Nuru)](https://github.com/Nuruzzaman-Nuru/University-Portal_Management)
 
 ---
 
@@ -160,11 +164,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## Acknowledgements
 
-- PHP, MySQL, HTML, CSS
-- Open-source community
-- All contributors and testers
 
 
 
