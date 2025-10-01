@@ -5,7 +5,7 @@ A web-based Portal Management System developed by Nuruzzaman. This platform is d
 ---
 ## Acknowledgements
 
--  HTML5, CSS, Tailwind CSS,PHP, MySQL.
+- HTML5, CSS, Tailwind CSS,PHP, MySQL.
 - Open-source community
 - All contributors and testers
 ## Features
