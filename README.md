@@ -2,7 +2,7 @@
 
 A web-based Portal Management System developed by Nuruzzaman. This platform is designed to manage various academic and administrative activities, including user authentication, course management, attendance tracking, result management, and more. It supports multiple roles: Admin, Teacher, Student.
 
-![homepage](portal2.png)
+![homepage](portal2.jpeg)
 ---
 ## Acknowledgements
 
